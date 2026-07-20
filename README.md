@@ -164,7 +164,7 @@ typst compile main-test.typ
 
 ## ライセンス
 
-このテンプレートは自由にコピー・改変・再配布して構いません。
+このテンプレート自体は [Apache License 2.0](LICENSE) の下で公開されています。
 ベースにした jlreq (LaTeX) は [BSD 2-Clause License](https://github.com/abenori/jlreq/blob/master/LICENSE) の下で公開されています。
 
 ## 参考文献
